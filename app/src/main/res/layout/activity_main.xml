@@ -47,6 +47,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:scaleType="matrix"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
             tools:srcCompat="@tools:sample/avatars" />
 
         <TextView
@@ -61,6 +63,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:scaleType="matrix"
+            android:layout_marginLeft="15dp"
             tools:srcCompat="@tools:sample/avatars" />
     </LinearLayout>
 </LinearLayout>
