@@ -65,5 +65,6 @@
             android:scaleType="matrix"
             android:layout_marginLeft="15dp"
             tools:srcCompat="@tools:sample/avatars" />
+
     </LinearLayout>
 </LinearLayout>

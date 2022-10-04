@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
     Button[] btns = new Button[3];
     ImageView ivEmbl, ivFlag;
     TextView tvName;
-    int[] embl = {R.drawable.russia_embl,R.drawable.belorus_embl,R.drawable.iran_embl};
-    int[] flag = {R.drawable.russia_flag,R.drawable.belorus_flag, R.drawable.iran_flag};
+    int[] embl = {R.drawable.russia_embl,R.drawable.iran_embl, R.drawable.belorus_embl};
+    int[] flag = {R.drawable.russia_flag,R.drawable.iran_flag, R.drawable.belorus_flag };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
